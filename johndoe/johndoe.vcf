@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Doe;John;;;
+FN:John Doe
+ORG:Creativemedia S.r.l.
+ADR;TYPE=WORK:Via Leon Battista Alberti
+TITLE:Manager
+TEL;TYPE=CELL:+393392342890
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:g.paoli@creativemedia.com
+URL;TYPE=Digital Business Card:
+URL:
+
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:Abbiamo maturato la nostra esperienza lavorando al fianco di eccellenze imprenditoriali italiane, partecipando allo sviluppo strategico e creativo prima che alla strategia media. Perché solo attraverso la sintesi tra media e creatività, soprattutto nel digitale, è possibile creare esperienze di comunicazione che portano valore ai brand.
+UID:EnBizCard-100343436
+END:VCARD
